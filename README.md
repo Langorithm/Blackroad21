@@ -11,7 +11,7 @@ To play you will need:
 * A standard poker deck of 52 cards
 * A joker card
 * A token representing each player
-* Knowledge of Blackjack 21
+* Playing knowledge of Blackjack 21
 
 ### The board
 The game's zones are the following:

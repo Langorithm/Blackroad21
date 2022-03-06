@@ -3,8 +3,8 @@
 ### Intro
 v0.1
 
-Point-based card gathering and racing game based in Blackjack 21. This how-to assumes you know the rules to that game.
-2 player game? Maybe more??
+2-Player point-based card-gathering and racing game based in Blackjack 21. This how-to assumes you know the rules to that game.
+
 
 
 To play you will need:

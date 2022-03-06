@@ -9,7 +9,7 @@ Point-based card gathering and racing game based in Blackjack 21. This how-to as
 
 To play you will need:
 * A standard poker deck of 52 cards
-* 2 Jokers
+* A joker card
 * A token representing each player
 * Knowledge of Blackjack 21
 

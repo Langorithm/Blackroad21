@@ -28,7 +28,7 @@ Setting it up:
 
 ### Playing the game
 
-The goal of the game is to get to the finish line, collecting cards and to maximize your amount of points by the end. Players race through the field by taking turns to move their tokens around the stops and playing hands of *Blackroad* (similar to a hand of Blackjack) in each stop.
+The goal of the game is to get to the finish line by collecting cards and to maximize their score by the end. Players race through the field by taking turns to move their tokens around the stops and playing hands of Blackroad (similar to a hand of Blackjack) at each stop.
 
 >##### A hand of Blackroad
 >
@@ -46,16 +46,16 @@ Once you have set up the board, pick the starting player.
 1. Flip the card at the **Start** to be face up. Do the same for the two cards adjacent to it.
 2. The starting player plays a hand of *Blackroad*, using the card at the start as their first card dealt.
 3. Just like in *Blackjack*, the player may decide to stop receiving cards before the hand reaches a sum of 21. 
-	* If the sum exceeds 21, they are busted and the entire hand is discarded.
-	* If their sum is 21 or less, they take those cards and put it in their **Glovebox**.
-	* Also, if the sum is exactly 21, they take another turn.
+	* If the sum exceeds 21, they have busted and their entire hand is discarded.
+	* If the sum is 21 or less, they take those cards and put it in their **Glovebox**.
+	* Also, if the sum is exactly 21, they make take another turn.
 
 It is now the next turn, and the game continues as follows:
 
-4. The acting player moves their piece from the current card to their choice of a face up card *adjacent* to their current card.
-5. The face-down cards adjacent to the new current card are flipped to be facing up.
-6. The player plays a hand of *Blackroad* using a the card at their stop as their initial card dealt. Just like before, the initial card on the stop and the cards dealt from the deck for this hand are added to that player's **Glovebox**, provided the hand's total does not exceed 21.
-8. Any cards taken from a player's **Glovebox** to add to the hand's sum are not returned to their **Glovebox**, rather, they are placed in the current stop, ready to be used in a future hand of *Blackroad*, should a player position themselves there in the future.
+4. The acting player moves their piece to their choice of a face up card *adjacent* to their current card.
+5. The face-down cards adjacent to the new current card are flipped face up.
+6. The player plays a hand of *Blackroad* using the card at their stop as their initial card dealt. Just like before, the initial card on the stop and the cards dealt from the deck for this hand are added to that player's **Glovebox**, provided the hand's total does not exceed 21.
+8. Any cards taken from a player's **Glovebox** to add to the hand's sum are not returned to their **Glovebox**, rather, they are placed in the current stop, ready to be used in a future hand of *Blackroad*, should a player position themselves there in the future. This means a stop may have more than one card in it when a player leaves it.
 9. If the hand's total was exactly 21 and this is not the second consecutive turn for the player, the player may take a second turn.
 10. Otherwise, the player's turn ends. 
 
